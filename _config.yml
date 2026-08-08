@@ -1,0 +1,13 @@
+title: Wonjun Dev Blog
+description: Unity / Graphics / Build Automation
+author: Wonjun
+
+url: "https://meullang.github.io"
+
+markdown: kramdown
+
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
