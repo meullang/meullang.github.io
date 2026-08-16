@@ -1,6 +1,6 @@
 # Rename this file to languages.toml to enable multilingual support
 [en]
-    label     = "English"
+    label     = "Korean"
     direction = "ltr"
     title     = "Example Site"
     weight    = 1
